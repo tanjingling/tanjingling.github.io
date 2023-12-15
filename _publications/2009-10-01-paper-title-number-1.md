@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/heatpumps_preprint.pdf)
 
-Recommended citation: Edwards, Garibay-Rodriguez, Erickson, Shayan, <b>Tan<b>, Shen, Qiu, Liu, “Assessing inequities in heat pump adoption across the U.S.,” in review.
+Recommended citation: Edwards, Garibay-Rodriguez, Erickson, Shayan, <b>Tan</b>, Shen, Qiu, Liu, “Assessing inequities in heat pump adoption across the U.S.,” in review.
