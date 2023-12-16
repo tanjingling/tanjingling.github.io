@@ -2,7 +2,7 @@
 title: "How Countries Price Carbon: A Policy Diffusion Approach"
 collection: publications
 permalink: /publication/2023-12-01-carbon-pricing
-excerpt: 'I find that countries price their carbon policies in association with neighboring, regional, and global prices in that year. This diffusion of carbon prices is most pronounced among neighboring countries and is robust to lags, domestic controls, and a high threshold of confounding.'
+excerpt: 'I find that countries price their carbon policies in association with neighboring, regional, and global prices in that year. This diffusion of carbon prices is most pronounced among geographically neighboring countries, and is robust to domestic controls, time lags, and a high threshold of confounding.'
 date: 2023-12-01
 venue: 'In Preparation'
 citation: 'Tan. (2023). &quot;How Countries Price Carbon: A Policy Diffusion Approach.&quot; <i>In Preparation</i>.'
