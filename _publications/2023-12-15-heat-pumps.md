@@ -2,7 +2,7 @@
 title: "Assessing inequities in electrification via heat pumps across the U.S"
 collection: publications
 permalink: /publications/2023-12-15-heat-pumps
-excerpt: 'We show disparities in household electrification in the U.S., through lower rates of heat pumps among communities of color and renters.'
+excerpt: 'Electrifying space heating is essential to reduce greenhouse gas emissions from the building sector, and heat pumps have emerged as an energy-efficient and increasingly cost-effective solution. However, other clean energy technologies (e.g., rooftop solar) are less common in underserved communities, and thus policies incentivizing their adoption can be regressive. Unlike previously-studied technologies, the effects of heat pumps on energy bills may be positive or negative, and thus inequities in their access are context specific. Here we propose a framework for identifying inequities in heat pump access and map these inequities across the U.S. We find that households in communities of color and with high percentages of renters have access to heat pumps at lower rates across the board, but differences are largest in areas where heat pumps are likely to reduce energy bills. Public policies must address these inequities to advance beneficial electrification and energy justice.'
 date: 2023-12-15
 venue: In Review
 citation: 'Edwards, Garibay-Rodriguez, Erickson, Shayan, <b>Tan</b>, Shen, Qiu, Liu, “Assessing inequities in heat pump adoption across the U.S.,” in review.'
