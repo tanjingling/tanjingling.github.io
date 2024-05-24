@@ -6,6 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
 
 Please email me at jingling_tan [at] g.harvard.edu for a copy of my CV.
