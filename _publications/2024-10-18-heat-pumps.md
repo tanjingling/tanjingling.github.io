@@ -2,8 +2,8 @@
 title: "Assessing inequities in electrification via heat pumps across the US"
 collection: publications
 permalink: /publications/2024-10-18-heat-pumps
-excerpt: Households in communities of color and with higher fraction of renters are less likely to be heated using heat pumps. Public policies must address these inequities to advance beneficial electrification
- <br><br> [View paper here](https://www.sciencedirect.com/science/article/pii/S2542435124004306)'
+excerpt: Households in communities of color and with higher fraction of renters are less likely to be heated using heat pumps. Public policies must address these inequities to advance beneficial electrification.
+ <br><br> [View paper here](https://www.sciencedirect.com/science/article/pii/S2542435124004306)
 date: 2024-10-18
 venue: Joule
 citation: Edwards, Morgan R., Jaime Garibay-Rodriguez, Jacob Shimkus Erickson, Muhammad Shayan, Jing Ling Tan, Xingchi Shen, Yueming Qiu, and Pengfei Liu. 2024. “Assessing Inequities in Electrification via Heat Pumps across the US.” Joule. doi:10.1016/j.joule.2024.09.012.
