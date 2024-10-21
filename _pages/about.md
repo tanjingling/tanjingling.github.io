@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Government at Harvard University. My research examines the linkages between international politics and domestic environmental politics/policies. This includes how the international political economy, institutions, and global norms influence political behavior on climate change and vice versa. 
-
-I hold a Master’s in International Public Affairs from the University of Wisconsin-Madison and a dual bachelor’s in political science from Sciences Po and the National University of Singapore.
-
-My research focuses on unpacking the linkages between international politics and domestic energy policymaking. I am also a researcher at the University of Wisconsin-Madison's  and previously at the Lee Kuan Yew School of Public Policy. 
+I am a Ph.D. student in the Department of Government at Harvard University. I am also a graduate affliate of Harvard's Institute for Quantitative Social Science (IQSS) and Center for American Political Studies (CAPS). My research examines the linkages between international politics and domestic environmental politics/policies. This includes how the international political economy, institutions, and global norms influence political behavior on climate change and vice versa. 
 
 In May 2024, I completed my Master's in International Public Affairs at the University of Wisconsin-Madison, as an Energy Analysis and Policy Scholar. I was a researcher at the University's [Climate Action Lab](https://www.climateactionlab.com/) and worked on projects on the energy transition and climate justice. 
 
