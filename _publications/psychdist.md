@@ -3,7 +3,7 @@ title: "How Psychological Distance shapes Americans’ Climate Change Preference
 collection: publications
 permalink: /publications/psychdist
 excerpt:  We find that psychological distance dimensions can exert independent effects on climate attitudes. In the case of Republicans, social proximity matters -- highlighting the impacts of climate on social ingroups can warm up Republicans' attitudes on climate change by $2-5$ percentage points.
- <br><br> [View paper here](https://cdn.jsdelivr.net/gh/tanjingling/tanjingling.github.io/files/PsychDist.pdf)
+ <br><br> # [View paper here](https://cdn.jsdelivr.net/gh/tanjingling/tanjingling.github.io/files/PsychDist.pdf)
 date: 2025-06-22
 venue: working paper
 
@@ -12,11 +12,11 @@ Abstract: How does the psychological distance of natural disasters influence cli
 
 Keywords: Political Psychology, Climate Change, Construal Level Theory, Polarization, Public Opinion, Survey Experiments, Social Identity, Republicans
 
-<iframe
-  src="https://cdn.jsdelivr.net/gh/tanjingling/tanjingling.github.io/files/PsychDist.pdf"
-  width="100%"
-  height="600px"
->
-  This browser does not support PDFs. Please download the PDF to view it: <a href="https://cdn.jsdelivr.net/gh/tanjingling/tanjingling.github.io/files/PsychDist.pdf">Download PDF</a>
-</iframe>
+# <iframe
+#  src="https://cdn.jsdelivr.net/gh/tanjingling/tanjingling.github.io/files/PsychDist.pdf"
+#  width="100%"
+#  height="600px"
+#>
+#  This browser does not support PDFs. Please download the PDF to view it: <a href="https://cdn.jsdelivr.net/gh/tanjingling/tanjingling.github.io/files/PsychDist.pdf">Download PDF</a>
+# </iframe>
 
