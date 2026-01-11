@@ -40,11 +40,15 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Publications: remove underline from paper-title links */
-.page__content h2 a,
-.page__content h2 a:visited,
-.page__content h2 a:hover {
-  text-decoration: none;
-  box-shadow: none;      /* some themes emulate underlines with shadows */
-  border-bottom: none;   /* some themes use borders instead of underline */
+/* Publications / Research: remove underline from archive item titles */
+.archive__item-title a,
+.archive__item-title a:visited,
+.archive__item-title a:hover,
+.archive__item-title a:focus {
+  text-decoration: none !important;
+}
+
+/* Also prevent the hover rule in _archive.scss from underlining the whole H2 */
+.archive__item:hover .archive__item-title {
+  text-decoration: none !important;
 }
