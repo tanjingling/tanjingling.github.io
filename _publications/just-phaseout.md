@@ -9,7 +9,7 @@ venue: Working Paper / Poster
 ---
 
 ## Abstract
-Energy transitions are costly, especially in the Global South. How can international climate finance reshape domestic decision-making on energy transitions? I study whether North–South climate finance can spur coal phase-out in Indonesia after the 2022 Just Energy Transition Partnership (JETP), a \$20 billion energy-transition agreement. Using a plant-by-half-year panel of coal-unit status changes matched to local PM$_{2.5}$ exposure, I find that after the agreement, coal plants in more polluted areas moved more toward phase-out than plants in cleaner areas.
+Energy transitions are costly, especially in the Global South. How can international climate finance reshape domestic decision-making on energy transitions? I study whether North–South climate finance can spur coal phase-out in Indonesia after the 2022 Just Energy Transition Partnership (JETP), a US$20 billion energy-transition agreement. Using a plant-by-half-year panel of coal-unit status changes matched to local PM<sub>2.5</sub> exposure, I find that after the agreement, coal plants in more polluted areas moved more toward phase-out than plants in cleaner areas.
 
 <!-- Replace or expand this abstract later. -->
 
