@@ -2,9 +2,12 @@
 main:
   - title: "Research"
     url: /publications/
-    
+
+  - title: "Policy Work"
+    url: /policy/
+
   - title: "Presentations"
     url: /portfolio/
-    
+
   - title: "CV"
     url: /cv/

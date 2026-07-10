@@ -1,7 +1,8 @@
 ---
-title: "Mobilizing Local Climate Action: Experimental Evidence from American Policymakers"
-excerpt: "<b>Presented at the 2024 Conference of the American Association for Public Opinion Research (with Jonathan Chu).</b>"
+title: "Paris Agreement Polarizes U.S. Local Policymakers on Climate Action"
+excerpt: "<b>Poster presented at the 79th AAPOR Annual Conference, 2024 (with Jonathan Chu). Student Conference Award.</b>"
 collection: portfolio
+date: 2024-05-01
 ---
 Poster Presentation at the 79th Conference of the American Association for Public Opinion Research (AAPOR). 
 
