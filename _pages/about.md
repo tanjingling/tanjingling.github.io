@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Jing Ling Tan is a Ph.D. student in Government at Harvard University studying the political economy of climate change — how international institutions and public opinion shape climate policy."
 author_profile: true
 redirect_from:
   - /about/
@@ -20,37 +20,16 @@ Outside the academy, I enjoy biking, bouldering, and playing board games.
 
 ---
 
-## News
+## Recent Updates
 
-- **March 2025** — Attended the UN Climate Change Conference (COP30) in Belém, Brazil as a Research Observer, funded by the Harvard Salata Institute.
-- **2025** — Received multiple research grants: Harvard Mittal Institute Climate Research Grant (with D. Tingley), Harvard Asia Center Summer Research Grant, Harvard IQSS Research Grant, and APSA Summer Centennial Center Research Grant.
-- **2024** — Paper on heat pump inequities published in [*Joule*](https://doi.org/10.1016/j.joule.2024.09.012).
-- **2024** — Began Ph.D. in Government at Harvard University.
+- **Sep 2026 (upcoming)** — Presenting "Carbon Adjusted: Global South Firms' Perceptions of Carbon Pricing and Trade-Based Decarbonization" (with Anthony Calacino, Federica Genovese, and Dustin Tingley) at the [APSA Annual Meeting](https://connect.apsanet.org/apsa2026/).
+- **Jul 2026 (upcoming)** — Poster on "No 'Human Labels as Gold Standard': When LLMs Make Mistakes, Humans Do Too" (with Kentaro Nakamura and George Yean) at the [Society for Political Methodology (PolMeth) Annual Meeting](https://polmeth.msu.edu/).
+- **Jun–Jul 2026** — Presented "How the Public Defines Climate Security" (with Jessica Weeks) at the [Environmental Politics and Governance (EPG) Annual Conference](https://epg2026.org/).
+- **Jun 2026** — Attended and presented at Purdue University's [Video Research Institute](https://cla.purdue.edu/communication/ccse/video-research-institute/).
+- **Jun 2026** — Awarded the Harvard Radcliffe Institute Engaged Student Grant and the Harvard Urban Mobility and Climate Change Research Fund (2026–27).
+- **May 2026** — Presented "Just Phaseout: How International Climate Finance Drives Indonesia's Energy Transition" at the [Climate Pipeline Conference, Columbia University](https://politicaleconomy.columbia.edu/news/call-papers-climate-pipeline-project).
+- **Nov 2025** — Attended the UN Climate Change Conference ([COP30](/fieldwork/)) in Belém, Brazil as a Research Observer, funded by the Harvard Salata Institute COP Observers Funding Program.
+- **Jul 2025** — Presented "How the Public Defines Climate Security" (with Jessica Weeks) at the [IPSA World Congress of Political Science](https://www.ipsa.org/events/congress/seoul2025).
+- **Apr 2025** — Presented "How Psychological Distance shapes Americans' Climate Change Preferences" (with Wei Wang and Wei-Ting Tsai) at the [MPSA Annual Conference](https://www.mpsanet.org/conference/).
+- **2025** — Awarded research grants from the Harvard Asia Center, Harvard IQSS, and the APSA Summer Centennial Center.
 
----
-
-## Selected Grants & Awards
-
-- Harvard Mittal Institute Climate Research Grant — $25,000 (with D. Tingley), 2024–2026
-- Harvard Asia Center Summer Research Grant — $5,000, 2025
-- Harvard Institute for Quantitative Social Science Research Grant — $2,000, 2025
-- Harvard Salata Institute COP Observers Funding Program — $2,000, 2025
-- APSA Summer Centennial Center Research Grant — $2,500, 2025
-- NUS Development Research Grant — S$10,000, 2024
-- Student Conference Award, AAPOR 79th Annual Conference, 2024
-- Full Scholarship, Master's in International Public Affairs, UW-Madison, 2022
-- Postgraduate Scholarship, Tan Kah Kee Foundation, Singapore
-- Top Student in Political Science & President's Honor Roll, National University of Singapore
-
----
-
-## COP30 — Belém, Brazil (2025)
-
-I attended COP30 as a Research Observer, funded by the Harvard Salata Institute for Climate and Sustainability. My fieldwork there informs ongoing research on how COP delegates perceive climate justice and international cooperation.
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 1em;">
-  <img src="/images/cop30/COP_JLT1.jpg" alt="COP30 Belém 2025" style="width:100%; border-radius:4px;">
-  <img src="/images/cop30/COP_JLT2.jpg" alt="COP30 Belém 2025" style="width:100%; border-radius:4px;">
-  <img src="/images/cop30/COP_BAM1.jpg" alt="COP30 Belém 2025" style="width:100%; border-radius:4px;">
-  <img src="/images/cop30/COP_BAM2.jpg" alt="COP30 Belém 2025" style="width:100%; border-radius:4px;">
-</div>

@@ -5,10 +5,35 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+<style>
+.pres-intro { color: #777; font-size: 0.9em; margin-bottom: 0.5em; }
+.pres-year {
+  margin: 1.4em 0 0.5em;
+  font-size: 1.15em;
+  color: #494e52;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.2em;
+  font-weight: 700;
+}
+.pres-entry { margin-bottom: 1.05em; }
+.pres-entry .pres-title { font-weight: 600; line-height: 1.35; }
+.pres-entry .pres-title a { color: #333; }
+.pres-entry .pres-title a:hover { color: #0092ca; }
+.pres-meta { font-size: 0.85em; color: #777; margin-top: 0.1em; }
+</style>
 
+<p class="pres-intro">Selected conference presentations and talks. Click any title for details.</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign sorted = site.portfolio | sort: 'date' | reverse %}
+{% assign current_year = "" %}
+{% for post in sorted %}
+  {% assign yr = post.date | date: "%Y" %}
+  {% if yr != current_year %}
+<h2 class="pres-year">{{ yr }}</h2>
+  {% assign current_year = yr %}
+  {% endif %}
+<div class="pres-entry">
+  <div class="pres-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+  <div class="pres-meta">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+</div>
 {% endfor %}
-

@@ -3,11 +3,14 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Policy Work"
+  - title: "Policy"
     url: /policy/
 
   - title: "Presentations"
     url: /portfolio/
+
+  - title: "Fieldwork"
+    url: /fieldwork/
 
   - title: "CV"
     url: /cv/

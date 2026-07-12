@@ -1,3 +1,9 @@
 _site/
 
 .DS_Store
+Gemfile.local
+Gemfile.local.lock
+vendor/
+.bundle/
+.claude/
+_config.local.yml
