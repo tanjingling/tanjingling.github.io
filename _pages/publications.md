@@ -98,7 +98,7 @@ details p {
 </div>
 
 <div class="paper-entry">
-<p><strong>How Psychological Distance shapes Americans' Climate Change Preferences: a Conjoint Analysis</strong></p>
+<p><strong>Un-bundling the psychological distance of climate change: Effects on policy attitudes depend on design</strong></p>
 <p class="paper-meta">with Wei Wang and Wei-Ting Tsai</p>
 <details><summary>Abstract</summary>
 <p>How does the psychological distance of natural disasters influence climate attitudes? Existing work that applies construal level theory (CLT) to study climate perceptions reports mixed effects, precluding clear messaging guidance for climate change communicators. We argue that prior experimental evidence mostly does not test distance dimensions independently, despite CLT being a multidimensional theory comprising social, spatial, temporal, and probabilistic distance. We contribute a systematic test of the effects of psychological distance on climate attitudes by independently manipulating each distance dimension via a preregistered conjoint experiment about floods. Study 1 recruited 700 Republicans, finding that socially proximate natural disasters that affect one's ingroup consistently increase pro-climate attitudes. However, spatial, temporal, and probabilistic distance generally do not have a significant effect. Specifically, highlighting the impacts of climate on social ingroups can increase Republicans' pro-climate attitudes by up to 5 percentage points. Our proposed Study 2 applies a national sample, validates our manipulations, and tests theoretically relevant mechanisms — including ingroup identification strength, moral foundations, and affective responses — that may account for the outsized effects of social distance.</p>
@@ -128,7 +128,7 @@ details p {
 </div>
 
 <div class="paper-entry">
-<p><strong>No "Human Labels as Gold Standard": When LLMs Make Mistakes, Humans Do Too</strong></p>
+<p><strong>Observational Equivalence of LLM and Human Annotation</strong></p>
 <p class="paper-meta">with Kentaro Nakamura and George Yean</p>
 <p class="paper-meta"><em>Poster at: <a href="https://polmeth.msu.edu/" target="_blank">Society for Political Methodology (PolMeth) Annual Meeting</a>, 2026</em></p>
 </div>
