@@ -94,16 +94,25 @@ details p {
 <details><summary>Abstract</summary>
 <p>Under what conditions does the American public view climate change as a matter of national security, and what does that imply for climate policy attitudes? We treat securitization as a measurable public perception with the potential to affect policy support. We further theorize that securitization is more successful in the aftermath of major climate shocks that make climate impacts feel more urgent and proximal, heighten threat-related emotions, and raise perceived risk — conditions that also increase receptivity to elite security framing. We field two preregistered studies. Study 1, fielded in 2025, develops and validates a securitization index capturing whether respondents see an issue as implicating sovereignty, international power, military responsibility, and direct security threats. Study 2, planned for 2026, combines experimental survey methods with granular geospatial data on wildfire risk and exposure. Using a rolling design during peak wildfire season, we sample adults in high-risk areas and leverage quasi-random variation in wildfire timing to compare respondents who experience an actual wildfire to respondents in the same general area who do not. We test whether wildfire exposure and elite security framing increase securitization, and we explore how securitization relates to pro-climate attitudes and support for climate mitigation and adaptation policies.</p>
 </details>
-<p class="paper-meta"><em>Presented at: <a href="https://www.ipsa.org/events/congress/seoul2025" target="_blank">IPSA World Congress of Political Science</a>, 2025; <a href="https://epg2026.org/" target="_blank">Environmental Politics and Governance Annual Conference</a>, 2026</em></p>
+<p class="paper-meta"><em>Presented at: <a href="https://www.ipsa.org/events/congress/seoul2025" target="_blank">IPSA World Congress of Political Science</a>, 2025; <a href="https://epgnetwork.org/" target="_blank">Environmental Politics and Governance Annual Conference</a>, 2026</em></p>
 </div>
 
 <div class="paper-entry">
 <p><strong>Un-bundling the psychological distance of climate change: Effects on policy attitudes depend on design</strong></p>
 <p class="paper-meta">with Wei Wang and Wei-Ting Tsai</p>
 <details><summary>Abstract</summary>
-<p>How does the psychological distance of natural disasters influence climate attitudes? Existing work that applies construal level theory (CLT) to study climate perceptions reports mixed effects, precluding clear messaging guidance for climate change communicators. We argue that prior experimental evidence mostly does not test distance dimensions independently, despite CLT being a multidimensional theory comprising social, spatial, temporal, and probabilistic distance. We contribute a systematic test of the effects of psychological distance on climate attitudes by independently manipulating each distance dimension via a preregistered conjoint experiment about floods. Study 1 recruited 700 Republicans, finding that socially proximate natural disasters that affect one's ingroup consistently increase pro-climate attitudes. However, spatial, temporal, and probabilistic distance generally do not have a significant effect. Specifically, highlighting the impacts of climate on social ingroups can increase Republicans' pro-climate attitudes by up to 5 percentage points. Our proposed Study 2 applies a national sample, validates our manipulations, and tests theoretically relevant mechanisms — including ingroup identification strength, moral foundations, and affective responses — that may account for the outsized effects of social distance.</p>
+<p>Climate change is commonly cited as a collective action challenge because people generally feel it is a distant issue in many respects. However, empirical evidence has shown making climate change feel psychologically close sometimes has no effect on, or can even reduce pro-climate attitudes. We argue these mixed findings may be partly driven by confounding variables. We re-examine this question with two preregistered conjoint experiments that simultaneously manipulate the spatial, temporal, probabilistic, and social distance of climate change as well as its perceived risk. Using two quota-matched samples of American adults, one Republican-only (Study 1; N=700) and another bipartisan (Study 2; N=1,777), we find that reducing psychological distance (PD) in each of the four dimensions generally increases support for climate change mitigation and adaptation policies, independent of perceived risk. Spatial distance, a focal PD dimension in prior work, has no significant effect on mitigation support. Manipulation checks support that our design worked as intended. These findings contribute by clarifying the causal effects of PD dimensions on pro-climate attitudes.</p>
 </details>
 <p class="paper-meta"><em>Presented at: <a href="https://www.mpsanet.org/conference/" target="_blank">MPSA Annual Conference</a>, 2025; <a href="https://spsa.net/annual-meeting/2026-conference-information/" target="_blank">SPSA Annual Conference</a>, 2026; <a href="https://www.icahdq.org/mpage/ICA26" target="_blank">International Communication Association (ICA)</a>, 2026</em></p>
+</div>
+
+<div class="paper-entry">
+<p><strong>Observational Equivalence of LLM and Human Annotation</strong></p>
+<p class="paper-meta">with Kentaro Nakamura and George Yean</p>
+<details><summary>Abstract</summary>
+<p>In this paper, we show that LLM and human coding are observationally equivalent in terms of annotation quality: recent LLMs agree with expert coders at rates comparable to those observed among experts. We demonstrate this through replications of text-classification tasks from 14 peer-reviewed political science studies, in which ten LLMs, three human experts, and 165 crowdsourced workers independently classify the same texts using identical codebooks. We find that this equivalence is driven by ambiguity in the texts and coding rules. When LLMs disagree with experts, experts are also more likely to disagree with one another, and clarifying coding rules reduces disagreement among both experts and recent LLMs. Thus, there is little empirical basis for preferring human coding on the basis of annotation quality alone, while LLMs offer substantial advantages in speed and cost. We therefore argue that the central challenge of text annotation is no longer choosing between human and machine coders, but developing coding rules that minimize ambiguity and accounting for the ambiguity that remains. To this end, we propose using disagreement across LLMs to identify difficult cases and refine codebooks, and we develop ambiguity-aware bounds for downstream inference when a unique annotation cannot be defined for every text.</p>
+</details>
+<p class="paper-meta"><em>Poster at: <a href="https://polmeth.msu.edu/" target="_blank">Society for Political Methodology (PolMeth) Annual Meeting</a>, 2026</em></p>
 </div>
 
 ---
@@ -125,12 +134,6 @@ details p {
 <p><strong>Just Phaseout: How International Climate Finance Drives Indonesia's Energy Transition</strong></p>
 <p class="paper-meta">Solo-authored</p>
 <p class="paper-meta"><em>Presented at: <a href="https://politicaleconomy.columbia.edu/news/call-papers-climate-pipeline-project" target="_blank">Climate Pipeline Conference, Columbia University</a>, 2026</em></p>
-</div>
-
-<div class="paper-entry">
-<p><strong>Observational Equivalence of LLM and Human Annotation</strong></p>
-<p class="paper-meta">with Kentaro Nakamura and George Yean</p>
-<p class="paper-meta"><em>Poster at: <a href="https://polmeth.msu.edu/" target="_blank">Society for Political Methodology (PolMeth) Annual Meeting</a>, 2026</em></p>
 </div>
 
 <div class="paper-entry">

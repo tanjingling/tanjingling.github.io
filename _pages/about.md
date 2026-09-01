@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Jing Ling Tan is a Ph.D. student in Government at Harvard University studying the political economy of climate change — how international institutions and public opinion shape climate policy."
+seo_title: "Jing Ling Tan"
+excerpt: "Jing Ling Tan is a Ph.D. candidate in Government at Harvard University studying the political economy of climate change — how international institutions and public opinion shape climate policy."
 author_profile: true
 redirect_from:
   - /about/
@@ -10,7 +11,7 @@ redirect_from:
 
 I study the political economy of climate change, with a focus on how international institutions and public opinion shape climate policy.
 
-I am a Ph.D. student in the Department of Government at Harvard University. My research examines the linkages between international politics and domestic environmental politics and policies — including how international political economy, institutions, and global norms influence political behavior on climate change, and vice versa. I am a graduate affiliate of Harvard's [Institute for Quantitative Social Science (IQSS)](https://www.iq.harvard.edu/about), the [Center for American Political Studies (CAPS)](https://caps.gov.harvard.edu/), and the [Center for International Development (CID)](https://www.hks.harvard.edu/centers/cid).
+I am a Ph.D. candidate in the Department of Government at Harvard University. My research examines the linkages between international politics and domestic environmental politics and policies — including how international political economy, institutions, and global norms influence political behavior on climate change, and vice versa. I am a graduate affiliate of Harvard's [Institute for Quantitative Social Science (IQSS)](https://www.iq.harvard.edu/about), the [Center for American Political Studies (CAPS)](https://caps.gov.harvard.edu/), and the [Center for International Development (CID)](https://www.hks.harvard.edu/centers/cid).
 
 In May 2024, I completed my Master's in International Public Affairs at the University of Wisconsin-Madison, as an Energy Analysis and Policy Scholar. I was a researcher at the University's [Climate Action Lab](https://www.climateactionlab.com/) and worked on projects on the energy transition and climate justice. In May 2022, I completed a Dual Bachelor's at Sciences Po and the National University of Singapore, where I did a research stint at the Lee Kuan Yew School of Public Policy.
 
@@ -25,7 +26,7 @@ Outside the academy, I enjoy biking, bouldering, and playing board games.
 - **Sep 2026 (upcoming)** — Presenting "Carbon Adjusted: Global South Firms' Perceptions of Carbon Pricing and Trade-Based Decarbonization" (with Anthony Calacino, Federica Genovese, and Dustin Tingley) at the [APSA Annual Meeting](https://connect.apsanet.org/apsa2026/).
 - **Aug 2026** — Awarded the Global Graduate Award by the National University of Singapore - 2026/2027
 - **Jul 2026** — Presented a poster on "No 'Human Labels as Gold Standard': When LLMs Make Mistakes, Humans Do Too" (with Kentaro Nakamura and George Yean) at the [Society for Political Methodology (PolMeth) Annual Meeting](https://polmeth.msu.edu/).
-- **Jun–Jul 2026** — Presented "How the Public Defines Climate Security" (with Jessica Weeks) at the [Environmental Politics and Governance (EPG) Annual Conference](https://epg2026.org/).
+- **Jun–Jul 2026** — Presented "How the Public Defines Climate Security" (with Jessica Weeks) at the [Environmental Politics and Governance (EPG) Annual Conference](https://epgnetwork.org/).
 - **Jun 2026** — Attended and presented at Purdue University's [Video Research Institute](https://cla.purdue.edu/communication/ccse/video-research-institute/).
 - **Jun 2026** — Awarded the Harvard Radcliffe Institute Engaged Student Grant and the Harvard Urban Mobility and Climate Change Research Fund (2026–27).
 - **May 2026** — Presented "Just Phaseout: How International Climate Finance Drives Indonesia's Energy Transition" at the [Climate Pipeline Conference, Columbia University](https://politicaleconomy.columbia.edu/news/call-papers-climate-pipeline-project).
