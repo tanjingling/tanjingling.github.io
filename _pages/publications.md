@@ -109,10 +109,11 @@ details p {
 <div class="paper-entry">
 <p><strong>Observational Equivalence of LLM and Human Annotation</strong></p>
 <p class="paper-meta">with Kentaro Nakamura and George Yean</p>
+<p class="paper-meta">Preprint, 2026 &nbsp;|&nbsp; <a href="https://doi.org/10.2139/ssrn.7389359" target="_blank">SSRN</a></p>
 <details><summary>Abstract</summary>
 <p>In this paper, we show that LLM and human coding are observationally equivalent in terms of annotation quality: recent LLMs agree with expert coders at rates comparable to those observed among experts. We demonstrate this through replications of text-classification tasks from 14 peer-reviewed political science studies, in which ten LLMs, three human experts, and 165 crowdsourced workers independently classify the same texts using identical codebooks. We find that this equivalence is driven by ambiguity in the texts and coding rules. When LLMs disagree with experts, experts are also more likely to disagree with one another, and clarifying coding rules reduces disagreement among both experts and recent LLMs. Thus, there is little empirical basis for preferring human coding on the basis of annotation quality alone, while LLMs offer substantial advantages in speed and cost. We therefore argue that the central challenge of text annotation is no longer choosing between human and machine coders, but developing coding rules that minimize ambiguity and accounting for the ambiguity that remains. To this end, we propose using disagreement across LLMs to identify difficult cases and refine codebooks, and we develop ambiguity-aware bounds for downstream inference when a unique annotation cannot be defined for every text.</p>
 </details>
-<p class="paper-meta"><em>Poster at: <a href="https://polmeth.msu.edu/" target="_blank">Society for Political Methodology (PolMeth) Annual Meeting</a>, 2026</em></p>
+<p class="paper-meta"><em>Poster at: <a href="https://polmeth.msu.edu/" target="_blank">Society for Political Methodology (PolMeth) Annual Meeting</a>, 2026</em>, then titled &ldquo;No &lsquo;Human Labels as Gold Standard&rsquo;: When LLMs Disagree, Humans Do Too&rdquo;</p>
 </div>
 
 ---

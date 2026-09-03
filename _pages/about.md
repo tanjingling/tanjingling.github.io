@@ -23,9 +23,10 @@ Outside the academy, I enjoy biking, bouldering, and playing board games.
 
 ## Recent Updates
 
+- **Sep 2026** — Posted a preprint of "Observational Equivalence of LLM and Human Annotation" (with Kentaro Nakamura and George Yean) on [SSRN](https://doi.org/10.2139/ssrn.7389359).
 - **Sep 2026 (upcoming)** — Presenting "Carbon Adjusted: Global South Firms' Perceptions of Carbon Pricing and Trade-Based Decarbonization" (with Anthony Calacino, Federica Genovese, and Dustin Tingley) at the [APSA Annual Meeting](https://connect.apsanet.org/apsa2026/).
 - **Aug 2026** — Awarded the Global Graduate Award by the National University of Singapore - 2026/2027
-- **Jul 2026** — Presented a poster on "No 'Human Labels as Gold Standard': When LLMs Make Mistakes, Humans Do Too" (with Kentaro Nakamura and George Yean) at the [Society for Political Methodology (PolMeth) Annual Meeting](https://polmeth.msu.edu/).
+- **Jul 2026** — Presented a poster on "No 'Human Labels as Gold Standard': When LLMs Disagree, Humans Do Too" (with Kentaro Nakamura and George Yean) at the [Society for Political Methodology (PolMeth) Annual Meeting](https://polmeth.msu.edu/).
 - **Jun–Jul 2026** — Presented "How the Public Defines Climate Security" (with Jessica Weeks) at the [Environmental Politics and Governance (EPG) Annual Conference](https://epgnetwork.org/).
 - **Jun 2026** — Attended and presented at Purdue University's [Video Research Institute](https://cla.purdue.edu/communication/ccse/video-research-institute/).
 - **Jun 2026** — Awarded the Harvard Radcliffe Institute Engaged Student Grant and the Harvard Urban Mobility and Climate Change Research Fund (2026–27).
