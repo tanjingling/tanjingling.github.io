@@ -23,7 +23,7 @@ noindex: true
 
 ## Office hours
 
-Book a 30-minute slot to talk through course material, an assignment, or anything else.
+Book a 20-minute slot to talk through course material, an assignment, or anything else.
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/jingling_tan?hide_landing_page_details=1" style="min-width:320px;height:700px;"></div>

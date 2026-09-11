@@ -123,7 +123,7 @@ details p {
 <div class="paper-entry">
 <p><strong>Carbon Adjusted: Global South Firms' Perceptions of Carbon Pricing and Trade-Based Decarbonization</strong></p>
 <p class="paper-meta">with Anthony Calacino, Federica Genovese, and Dustin Tingley</p>
-<p class="paper-meta"><em>To be presented at: <a href="https://connect.apsanet.org/apsa2026/" target="_blank">APSA Annual Meeting</a>, 2026</em></p>
+<p class="paper-meta"><em>Presented at: <a href="https://connect.apsanet.org/apsa2026/" target="_blank">APSA Annual Meeting</a>, 2026</em></p>
 </div>
 
 <div class="paper-entry">
