@@ -3,10 +3,17 @@ layout: archive
 title: "Presentations"
 permalink: /portfolio/
 author_profile: true
+redirect_from:
+  - /portfolio/AAPOR2024/
+  - /portfolio/apsa2026/
+  - /portfolio/epg2026/
+  - /portfolio/mpsa2025/
+  - /portfolio/pipeline2026/
+  - /portfolio/polmeth2026/
+  - /portfolio/wcps2025/
 ---
 
 <style>
-.pres-intro { color: #777; font-size: 0.9em; margin-bottom: 0.5em; }
 .pres-year {
   margin: 1.4em 0 0.5em;
   font-size: 1.15em;
@@ -17,23 +24,26 @@ author_profile: true
 }
 .pres-entry { margin-bottom: 1.05em; }
 .pres-entry .pres-title { font-weight: 600; line-height: 1.35; }
-.pres-entry .pres-title a { color: #333; }
-.pres-entry .pres-title a:hover { color: #0092ca; }
 .pres-meta { font-size: 0.85em; color: #777; margin-top: 0.1em; }
+.pres-note { font-size: 0.85em; color: #777; margin-top: 0.1em; font-style: italic; }
 </style>
 
-<p class="pres-intro">Selected conference presentations and talks. Click any title for details.</p>
-
-{% assign sorted = site.portfolio | sort: 'date' | reverse %}
 {% assign current_year = "" %}
-{% for post in sorted %}
-  {% assign yr = post.date | date: "%Y" %}
-  {% if yr != current_year %}
-<h2 class="pres-year">{{ yr }}</h2>
-  {% assign current_year = yr %}
+{% for p in site.data.presentations %}
+  {% if p.year != current_year %}
+<h2 class="pres-year">{{ p.year }}</h2>
+    {% assign current_year = p.year %}
   {% endif %}
 <div class="pres-entry">
-  <div class="pres-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
-  <div class="pres-meta">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+  <div class="pres-title">{{ p.title }}</div>
+  <div class="pres-meta">
+    {{ p.authors }}
+    {%- if p.kind or p.venue %} &middot; {% endif -%}
+    {%- if p.kind %}{{ p.kind }}, {% endif -%}
+    {%- if p.venue_url %}<a href="{{ p.venue_url }}" target="_blank">{{ p.venue }}</a>{%- else -%}{{ p.venue }}{%- endif -%}
+  </div>
+  {%- if p.note %}
+  <div class="pres-note">{% if p.note_url %}<a href="{{ p.note_url }}" target="_blank">{{ p.note }}</a>{% else %}{{ p.note }}{% endif %}</div>
+  {%- endif %}
 </div>
 {% endfor %}

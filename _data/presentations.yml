@@ -1,0 +1,61 @@
+# Conference presentations and talks, rendered by _pages/portfolio.html.
+#
+# One record per presentation. Newest first; the page groups them by year.
+# Abstracts deliberately live ONLY on the Research page (_pages/publications.md),
+# so they cannot drift. Presentations are listed here as a plain record; they do
+# not link through to the paper.
+#
+# Fields: year (required), title (required), authors, kind, venue, venue_url,
+#         note, note_url
+
+- year: 2026
+  title: "Carbon Adjusted: Global South Firms' Perceptions of Carbon Pricing and Trade-Based Decarbonization"
+  authors: "with Anthony Calacino, Federica Genovese &amp; Dustin Tingley"
+  kind: "Paper"
+  venue: "APSA Annual Meeting"
+  venue_url: "https://connect.apsanet.org/apsa2026/"
+
+- year: 2026
+  title: "Observational Equivalence of LLM and Human Annotation"
+  authors: "with Kentaro Nakamura &amp; George Yean"
+  kind: "Poster"
+  venue: "Society for Political Methodology (PolMeth) Annual Meeting"
+  venue_url: "https://polmeth.msu.edu/"
+  note: "then titled &ldquo;No &lsquo;Human Labels as Gold Standard&rsquo;: When LLMs Disagree, Humans Do Too&rdquo;"
+
+- year: 2026
+  title: "How the Public Defines Climate Security"
+  authors: "with Jessica Weeks"
+  kind: "Paper"
+  venue: "Environmental Politics and Governance (EPG) Annual Conference"
+  venue_url: "https://epgnetwork.org/"
+
+- year: 2026
+  title: "Just Phaseout: How International Climate Finance Drives Indonesia's Energy Transition"
+  authors: "Solo-authored"
+  kind: "Paper"
+  venue: "Climate Pipeline Conference, Columbia University"
+  venue_url: "https://politicaleconomy.columbia.edu/news/call-papers-climate-pipeline-project"
+
+- year: 2025
+  title: "How the Public Defines Climate Security"
+  authors: "with Jessica Weeks"
+  kind: "Paper"
+  venue: "IPSA World Congress of Political Science"
+  venue_url: "https://www.ipsa.org/events/congress/seoul2025"
+
+- year: 2025
+  title: "How Psychological Distance shapes Americans' Climate Change Preferences: a Conjoint Analysis"
+  authors: "with Wei Wang &amp; Wei-Ting Tsai"
+  kind: "Paper"
+  venue: "MPSA Annual Conference"
+  venue_url: "https://www.mpsanet.org/conference/"
+
+- year: 2024
+  title: "Paris Agreement Polarizes U.S. Local Policymakers on Climate Action"
+  authors: "with Jonathan Chu"
+  kind: "Poster"
+  venue: "79th AAPOR Annual Conference"
+  venue_url: "https://aapor.org/aapor-79th-annual-conference/"
+  note: "Student Conference Award, AAPOR 2024"
+  note_url: "https://aapor.org/past-student-conference-winners/"

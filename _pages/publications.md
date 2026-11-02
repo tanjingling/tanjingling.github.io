@@ -89,36 +89,23 @@ details p {
 ## Working Papers
 
 <div class="paper-entry">
-<p><strong>How the Public Defines Climate Security</strong></p>
-<p class="paper-meta">with Jessica Weeks</p>
-<details><summary>Abstract</summary>
-<p>Under what conditions does the American public view climate change as a matter of national security, and what does that imply for climate policy attitudes? We treat securitization as a measurable public perception with the potential to affect policy support. We further theorize that securitization is more successful in the aftermath of major climate shocks that make climate impacts feel more urgent and proximal, heighten threat-related emotions, and raise perceived risk — conditions that also increase receptivity to elite security framing. We field two preregistered studies. Study 1, fielded in 2025, develops and validates a securitization index capturing whether respondents see an issue as implicating sovereignty, international power, military responsibility, and direct security threats. Study 2, planned for 2026, combines experimental survey methods with granular geospatial data on wildfire risk and exposure. Using a rolling design during peak wildfire season, we sample adults in high-risk areas and leverage quasi-random variation in wildfire timing to compare respondents who experience an actual wildfire to respondents in the same general area who do not. We test whether wildfire exposure and elite security framing increase securitization, and we explore how securitization relates to pro-climate attitudes and support for climate mitigation and adaptation policies.</p>
-</details>
-<p class="paper-meta"><em>Presented at: <a href="https://www.ipsa.org/events/congress/seoul2025" target="_blank">IPSA World Congress of Political Science</a>, 2025; <a href="https://epgnetwork.org/" target="_blank">Environmental Politics and Governance Annual Conference</a>, 2026</em></p>
-</div>
-
-<div class="paper-entry">
-<p><strong>Un-bundling the psychological distance of climate change: Effects on policy attitudes depend on design</strong></p>
-<p class="paper-meta">with Wei Wang and Wei-Ting Tsai</p>
-<details><summary>Abstract</summary>
-<p>Climate change is commonly cited as a collective action challenge because people generally feel it is a distant issue in many respects. However, empirical evidence has shown making climate change feel psychologically close sometimes has no effect on, or can even reduce pro-climate attitudes. We argue these mixed findings may be partly driven by confounding variables. We re-examine this question with two preregistered conjoint experiments that simultaneously manipulate the spatial, temporal, probabilistic, and social distance of climate change as well as its perceived risk. Using two quota-matched samples of American adults, one Republican-only (Study 1; N=700) and another bipartisan (Study 2; N=1,777), we find that reducing psychological distance (PD) in each of the four dimensions generally increases support for climate change mitigation and adaptation policies, independent of perceived risk. Spatial distance, a focal PD dimension in prior work, has no significant effect on mitigation support. Manipulation checks support that our design worked as intended. These findings contribute by clarifying the causal effects of PD dimensions on pro-climate attitudes.</p>
-</details>
-<p class="paper-meta"><em>Presented at: <a href="https://www.mpsanet.org/conference/" target="_blank">MPSA Annual Conference</a>, 2025; <a href="https://spsa.net/annual-meeting/2026-conference-information/" target="_blank">SPSA Annual Conference</a>, 2026; <a href="https://www.icahdq.org/mpage/ICA26" target="_blank">International Communication Association (ICA)</a>, 2026</em></p>
-</div>
-
-<div class="paper-entry">
 <p><strong>Observational Equivalence of LLM and Human Annotation</strong></p>
 <p class="paper-meta">with Kentaro Nakamura and George Yean</p>
-<p class="paper-meta">Preprint, 2026 &nbsp;|&nbsp; <a href="https://doi.org/10.2139/ssrn.7389359" target="_blank">SSRN</a></p>
+<p class="paper-meta">Preprint, 2026 &nbsp;|&nbsp; <a href="https://arxiv.org/abs/2609.22133" target="_blank">arXiv</a></p>
 <details><summary>Abstract</summary>
-<p>In this paper, we show that LLM and human coding are observationally equivalent in terms of annotation quality: recent LLMs agree with expert coders at rates comparable to those observed among experts. We demonstrate this through replications of text-classification tasks from 14 peer-reviewed political science studies, in which ten LLMs, three human experts, and 165 crowdsourced workers independently classify the same texts using identical codebooks. We find that this equivalence is driven by ambiguity in the texts and coding rules. When LLMs disagree with experts, experts are also more likely to disagree with one another, and clarifying coding rules reduces disagreement among both experts and recent LLMs. Thus, there is little empirical basis for preferring human coding on the basis of annotation quality alone, while LLMs offer substantial advantages in speed and cost. We therefore argue that the central challenge of text annotation is no longer choosing between human and machine coders, but developing coding rules that minimize ambiguity and accounting for the ambiguity that remains. To this end, we propose using disagreement across LLMs to identify difficult cases and refine codebooks, and we develop ambiguity-aware bounds for downstream inference when a unique annotation cannot be defined for every text.</p>
+<p>In this paper, we show that humans and large language models (LLMs) are observationally equivalent in coding texts. Recent LLMs agree with attentive humans at rates comparable to those observed among humans, and cross-LLM disagreement concentrates on texts that also divide humans. We demonstrate these patterns through replications of text-classification tasks from 14 peer-reviewed political science studies, with 13 LLMs, three human coders (Ph.D. students), and 165 crowd coders, independently applying identical codebooks. We further find that clarifying an underspecified codebook increases agreement among humans and between humans and LLMs. Together, these findings point to ambiguity in texts and coding rules as a shared source of disagreement and challenge the presumption that human labels should take precedence whenever humans and LLMs differ. We therefore argue that the central challenge of text annotation is not simply choosing between humans and LLMs, but developing coding rules that minimize ambiguity and accounting for the ambiguity that remains. To this end, we propose using cross-LLM disagreement to identify difficult cases, guide human review, and refine codebooks, and we develop ambiguity-aware bounds for downstream inference without requiring ground truth for every text.</p>
 </details>
-<p class="paper-meta"><em>Poster at: <a href="https://polmeth.msu.edu/" target="_blank">Society for Political Methodology (PolMeth) Annual Meeting</a>, 2026</em>, then titled &ldquo;No &lsquo;Human Labels as Gold Standard&rsquo;: When LLMs Disagree, Humans Do Too&rdquo;</p>
+<p class="paper-meta"><em>Poster at: <a href="https://polmeth.msu.edu/" target="_blank">Society for Political Methodology (PolMeth) Annual Meeting</a>, 2026</em></p>
 </div>
 
 ---
 
 ## Works in Progress
+
+<div class="paper-entry">
+<p><strong>How International Negotiations shape Elite Preferences on Climate Change</strong></p>
+<p class="paper-meta">Solo-authored &nbsp;|&nbsp; <em>Fieldwork conducted at COP30, Belém, Brazil (2025)</em></p>
+</div>
 
 <div class="paper-entry">
 <p><strong>Carbon Adjusted: Global South Firms' Perceptions of Carbon Pricing and Trade-Based Decarbonization</strong></p>
@@ -127,18 +114,13 @@ details p {
 </div>
 
 <div class="paper-entry">
-<p><strong>Common but Differentiated Justice? How COP Delegates Perceive Justice and Cooperation</strong></p>
-<p class="paper-meta">Solo-authored &nbsp;|&nbsp; <em>Fieldwork conducted at COP30, Belém, Brazil (2025)</em></p>
+<p><strong>How the Public Defines Climate Security</strong></p>
+<p class="paper-meta">with Jessica Weeks</p>
+<p class="paper-meta"><em>Presented at: <a href="https://www.ipsa.org/events/congress/seoul2025" target="_blank">IPSA World Congress of Political Science</a>, 2025; <a href="https://epgnetwork.org/" target="_blank">Environmental Politics and Governance Annual Conference</a>, 2026</em></p>
 </div>
 
 <div class="paper-entry">
 <p><strong>Just Phaseout: How International Climate Finance Drives Indonesia's Energy Transition</strong></p>
 <p class="paper-meta">Solo-authored</p>
 <p class="paper-meta"><em>Presented at: <a href="https://politicaleconomy.columbia.edu/news/call-papers-climate-pipeline-project" target="_blank">Climate Pipeline Conference, Columbia University</a>, 2026</em></p>
-</div>
-
-<div class="paper-entry">
-<p><strong>Paris Agreement Polarizes U.S. Local Policymakers on Climate Action</strong></p>
-<p class="paper-meta">with Jonathan Chu</p>
-<p class="paper-meta"><em>Presented at: <a href="https://aapor.org/aapor-79th-annual-conference/" target="_blank">AAPOR 79th Annual Conference</a>, 2024</em> &nbsp;|&nbsp; <em><a href="https://aapor.org/past-student-conference-winners/" target="_blank">Student Conference Award, AAPOR 2024</a></em></p>
 </div>
