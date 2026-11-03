@@ -25,7 +25,7 @@ author_profile: true
 
 ## COP30 — Belém, Brazil (2025)
 
-I attended the 30th UN Climate Change Conference of the Parties (COP30) in Belém, Brazil, in November 2025 as a Research Observer, funded by the Harvard Salata Institute for Climate and Sustainability COP Observers Funding Program. My fieldwork there informs an ongoing project on how COP delegates perceive climate justice and international cooperation.
+I attended the 30th UN Climate Change Conference of the Parties (COP30) in Belém, Brazil, in November 2025 as a Research Observer, funded by the Harvard Salata Institute for Climate and Sustainability COP Observers Funding Program. My fieldwork there informs an ongoing project on how international negotiations like COP influence how elites and delegates perceive climate norms and cooperation.
 
 **Featured writing:** "[Witnessing Power on the Pavilion Floor at COP30](https://salatainstitute.harvard.edu/witnessing-power-on-the-pavilion-floor-at-cop30/)," *Harvard Salata Institute News*, 2025.
 
